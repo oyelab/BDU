@@ -1,6 +1,8 @@
 # **BDU Platform**  
 **An Educational Platform by Oyelab**  
 
+![BDU Logo](https://bdu.oyelab.com/assets/bdu-logo-dark.svg)
+
 BDU is an educational platform designed to revolutionize the e-learning space, offering tools for students, teachers, and institutions to connect, collaborate, and grow. Developed using modern web technologies, BDU is a scalable, secure, and user-friendly solution tailored for educational needs.
 
 ---
@@ -32,4 +34,16 @@ You can check out the live demo of the platform by visiting the following link:
 
 ## **Getting Started**
 
-...
+...  
+
+---
+
+## **Contact**
+
+For inquiries or support, feel free to reach out to us at [hello@oyelab.com](mailto:hello@oyelab.com).
+
+---
+
+## **Badges**
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
+![License](https://img.shields.io/badge/license-MIT-blue)
