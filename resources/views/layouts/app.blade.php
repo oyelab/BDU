@@ -5,12 +5,14 @@
 		<meta charset="utf-8">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 		<meta name="viewport" content="width=device-width, initial-scale=1"> 
+		<!-- SITE TITLE -->
+		<title>BDU - An Edu Platform by Oyelab</title>		
 		<!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-		<meta name="description" content="BDU by Oyelab">
+		<meta name="description" content="Our platform offers diverse courses, expert guidance, and cutting-edge resources designed to help you excel in your academic and professional journey. Join us in building a brighter future, one learner at a time.">
 		<meta name="keywords" content="oyelab_project, college, course, e-learning, education, high school, kids, learning, online, online courses, school, student, teacher, tutor, university">
 		<meta name="author" content="theme_ocean">
-		<!-- SITE TITLE -->
-		<title>BDU - An Edu Platform by Oyelab</title>			
+		<meta property="og:image" content="{{ asset('assets/images/banner/og-preview.jpg') }}" />
+	
 		<!-- Latest Bootstrap min CSS -->
 		<link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">		
 		<!-- Google Font -->

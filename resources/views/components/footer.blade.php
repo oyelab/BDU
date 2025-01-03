@@ -5,7 +5,7 @@
             <div class="col-lg-3 col-sm-6 col-xs-12">
                 <div class="single_footer">
                     <a href="{{ route('home') }}"><img src="assets/bdu-logo-light.svg" alt=""></a>         
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce vitae risus nec dui venenatis dignissim.</p>
+                    <p>Our platform offers diverse courses, expert guidance, and cutting-edge resources designed to help you excel in your academic and professional journey. Join us in building a brighter future, one learner at a time.</p>
                 </div>
                 <div class="foot_social">
                     <ul>
@@ -20,12 +20,12 @@
                 <div class="single_footer">
                     <h4>Courses</h4>
                     <ul>
-                        <li><a href="#">Creative Writing</a></li>
-                        <li><a href="#">Digital Marketing</a></li>
-                        <li><a href="#">SEO Business</a></li>
-                        <li><a href="#">Social Marketing</a></li>
-                        <li><a href="#">Graphic Design</a></li>
-                        <li><a href="#">Website Development</a></li>
+                        <li><a href="#">English</a></li>
+                        <li><a href="#">Math</a></li>
+                        <li><a href="#">Physics</a></li>
+                        <li><a href="#">Grammer & Vocabulary</a></li>
+                        <li><a href="#">Job Preparation</a></li>
+                        <li><a href="#">Advanced English</a></li>
                     </ul>
                 </div>
             </div><!--- END COL -->    

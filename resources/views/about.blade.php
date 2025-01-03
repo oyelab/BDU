@@ -77,7 +77,7 @@
 					<h2>Learn new skills to go <u><span>ahead for your </span></u> career.</h2>
 					<p>Lorem ipsum dolor sit amet, consectetur notted adipisicing elit sed do eiusmod tempor incididunt ut labore et simply. From blogs to emails to ad copies, auto-generate catchy, original, and high-converting copies in popular tones languages.From blogs to emails to ad copies, auto-generate catchy, original and high-converting copies.</p>
 					<p><strong>Auto-generate catchy original and high-converting copies in popular tones languages. From blogs to emails to ad copies auto-generate catchy</strong></p>
-					<a class="btn_one" href="about.html">Read More us</a>
+					<a class="btn_one" href="about">Read More us</a>
 				</div>						
 			</div><!--- END COL -->								  
 		</div><!--- END ROW -->
@@ -97,7 +97,7 @@
 				<div class="single_feature_one">
 					<div class="sf_top">
 						<span class="ti-book ss_one"></span>
-						<h2><a href="single-service.html" target="_blank">Learn More Anywhere</a></h2>
+						<h2><a href="single-service" target="_blank">Learn More Anywhere</a></h2>
 					</div>
 					<p>Lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor ut labore.</p>
 				</div>					
@@ -106,7 +106,7 @@
 				<div class="single_feature_one">
 					<div class="sf_top">
 						<span class="ti-heart ss_two"></span>
-						<h2><a href="single-service.html" target="_blank">Expert <br />Instructor</a></h2>
+						<h2><a href="single-service" target="_blank">Expert <br />Instructor</a></h2>
 					</div>	
 					<p>Lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor ut labore.</p>
 				</div>					
@@ -115,7 +115,7 @@
 				<div class="single_feature_one">
 					<div class="sf_top">
 						<span class="ti-user ss_three"></span>
-						<h2><a href="single-service.html" target="_blank">Team <br />Management</a></h2>
+						<h2><a href="single-service" target="_blank">Team <br />Management</a></h2>
 					</div>	
 					<p>Lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor ut labore.</p>
 				</div>					
@@ -124,7 +124,7 @@
 				<div class="single_feature_one">
 					<div class="sf_top">
 						<span class="ti-eye ss_four"></span>
-						<h2><a href="single-service.html" target="_blank">Course <br /> Planing</a></h2>
+						<h2><a href="single-service" target="_blank">Course <br /> Planing</a></h2>
 					</div>	
 					<p>Lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor ut labore.</p>
 				</div>					
@@ -133,7 +133,7 @@
 				<div class="single_feature_one">
 					<div class="sf_top">
 						<span class="ti-light-bulb ss_five"></span>
-						<h2><a href="single-service.html" target="_blank">Teacher Monitoring</a></h2>
+						<h2><a href="single-service" target="_blank">Teacher Monitoring</a></h2>
 					</div>		
 					<p>Lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor ut labore.</p>
 				</div>					
@@ -142,7 +142,7 @@
 				<div class="single_feature_one">
 					<div class="sf_top">
 						<span class="ti-email ss_six"></span>
-						<h2><a href="single-service.html" target="_blank">24/7 Strong Support</a></h2>
+						<h2><a href="single-service" target="_blank">24/7 Strong Support</a></h2>
 					</div>		
 					<p>Lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor ut labore.</p>
 				</div>					

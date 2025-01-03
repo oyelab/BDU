@@ -85,21 +85,21 @@
 			<div class="col-lg-4 col-sm-6 col-xs-12">
 				<div class="single_tca">
 					<img src="assets/images/icon/ct1.svg" alt="" />
-					<h2><a href="#">UI/UX Design</a></h2>
+					<h2><a href="#">Learn Basic English</a></h2>
 					<span>71 Courses</span>
 				</div>					
 			</div><!-- END COL -->							
 			<div class="col-lg-4 col-sm-6 col-xs-12">
 				<div class="single_tca">
 					<img src="assets/images/icon/ct2.svg" alt="" />
-					<h2><a href="#">Digital Program</a></h2>
+					<h2><a href="#">Learn Math</a></h2>
 					<span>59 Courses</span>
 				</div>					
 			</div><!-- END COL -->							
 			<div class="col-lg-4 col-sm-6 col-xs-12">
 				<div class="single_tca">
 					<img src="assets/images/icon/ct3.svg" alt="" />
-					<h2><a href="#">Finance</a></h2>
+					<h2><a href="#">Grammer & Vocabulary</a></h2>
 					<span>68 Courses</span>
 				</div>					
 			</div><!-- END COL -->							
@@ -113,7 +113,7 @@
 			<div class="col-lg-4 col-sm-6 col-xs-12">
 				<div class="single_tca">
 					<img src="assets/images/icon/ct5.svg" alt="" />
-					<h2><a href="#">Music Production</a></h2>
+					<h2><a href="#">Job Preparation</a></h2>
 					<span>37 Courses</span>
 				</div>					
 			</div><!-- END COL -->							
@@ -126,7 +126,7 @@
 			</div><!-- END COL -->	
 			<div class="col-lg-12 text-center">
 				<div class="cc_btn">
-					<a class="btn_one" href="course.html">View All category</a>
+					<a class="btn_one" href="course">View All category</a>
 				</div>
 			</div><!--END COL -->					
 		</div><!-- END ROW -->
@@ -148,7 +148,7 @@
 					<h2>Learn new skills to go <u><span>ahead for your </span></u> career.</h2>
 					<p>Lorem ipsum dolor sit amet, consectetur notted adipisicing elit sed do eiusmod tempor incididunt ut labore et simply. From blogs to emails to ad copies, auto-generate catchy, original, and high-converting copies in popular tones languages.From blogs to emails to ad copies, auto-generate catchy, original and high-converting copies.</p>
 					<p><strong>Auto-generate catchy original and high-converting copies in popular tones languages. From blogs to emails to ad copies auto-generate catchy</strong></p>
-					<a class="btn_one" href="about.html">Read More us</a>
+					<a class="btn_one" href="about">Read More us</a>
 				</div>						
 			</div><!--- END COL -->								  
 		</div><!--- END ROW -->
@@ -172,8 +172,8 @@
 							<span class="month2">$49</span>
 						</div>
 					</div>
-					<div class="course-content2"><a class="c_btn2" href="single_course.html">Arts & Design</a>
-						<h3><a href="single_course.html">Basic Fundamentals of Interior & Graphics Design</a></h3>
+					<div class="course-content2"><a class="c_btn2" href="single_course">Arts & Design</a>
+						<h3><a href="single_course">Basic Fundamentals of Interior & Graphics Design</a></h3>
 						<div class="co_list">
 							<span><i class="fa fa-calendar"></i>3 Lessons</span>
 							<span><i class="fa fa-clock-o"></i>3h 45m</span>
@@ -191,8 +191,8 @@
 							<span class="month2">$39</span>
 						</div>
 					</div>
-					<div class="course-content2"><a class="c_btn2" href="single_course.html">Social</a>
-						<h3><a href="single_course.html">Increasing Engagement with Instagram & Facebook</a></h3>
+					<div class="course-content2"><a class="c_btn2" href="single_course">Social</a>
+						<h3><a href="single_course">Increasing Engagement with Instagram & Facebook</a></h3>
 						<div class="co_list">
 							<span><i class="fa fa-calendar"></i>3 Lessons</span>
 							<span><i class="fa fa-clock-o"></i>3h 45m</span>
@@ -210,8 +210,8 @@
 							<span class="month2">$29</span>
 						</div>
 					</div>
-					<div class="course-content2"><a class="c_btn2" href="single_course.html">Design</a>
-						<h3><a href="single_course.html">Introduction to Color Theory & Basic UI/UX</a></h3>
+					<div class="course-content2"><a class="c_btn2" href="single_course">Design</a>
+						<h3><a href="single_course">Introduction to Color Theory & Basic UI/UX</a></h3>
 						<div class="co_list">
 							<span><i class="fa fa-calendar"></i>3 Lessons</span>
 							<span><i class="fa fa-clock-o"></i>3h 45m</span>
@@ -229,8 +229,8 @@
 							<span class="month2">$59</span>
 						</div>
 					</div>
-					<div class="course-content2"><a class="c_btn2" href="single_course.html">Technology</a>
-						<h3><a href="single_course.html">Financial Security Thinking and Principles Theory</a></h3>
+					<div class="course-content2"><a class="c_btn2" href="single_course">Technology</a>
+						<h3><a href="single_course">Financial Security Thinking and Principles Theory</a></h3>
 						<div class="co_list">
 							<span><i class="fa fa-calendar"></i>3 Lessons</span>
 							<span><i class="fa fa-clock-o"></i>3h 45m</span>
@@ -248,8 +248,8 @@
 							<span class="month2">$69</span>
 						</div>
 					</div>
-					<div class="course-content2"><a class="c_btn2" href="single_course.html">Data Science</a>
-						<h3><a href="single_course.html">Logo Design: From Concept to Presentation</a></h3>
+					<div class="course-content2"><a class="c_btn2" href="single_course">Data Science</a>
+						<h3><a href="single_course">Logo Design: From Concept to Presentation</a></h3>
 						<div class="co_list">
 							<span><i class="fa fa-calendar"></i>3 Lessons</span>
 							<span><i class="fa fa-clock-o"></i>3h 45m</span>
@@ -267,8 +267,8 @@
 							<span class="month2">$99</span>
 						</div>
 					</div>
-					<div class="course-content2"><a class="c_btn2" href="single_course.html">Development</a>
-						<h3><a href="single_course.html">Professional Ceramic Moulding for Beginners</a></h3>
+					<div class="course-content2"><a class="c_btn2" href="single_course">Development</a>
+						<h3><a href="single_course">Professional Ceramic Moulding for Beginners</a></h3>
 						<div class="co_list">
 							<span><i class="fa fa-calendar"></i>3 Lessons</span>
 							<span><i class="fa fa-clock-o"></i>3h 45m</span>
@@ -280,7 +280,7 @@
 			</div><!--END COL -->
 			<div class="col-lg-12 text-center">
 				<div class="cc_btn">
-					<a class="btn_one" href="course.html">View All Course</a>
+					<a class="btn_one" href="course">View All Course</a>
 				</div>
 			</div><!--END COL -->				
 		</div><!--END ROW -->		
@@ -411,7 +411,7 @@
 <!-- END COURSE PROMOTION -->	
 
 <!-- START PRICING -->
-<section id="pricing" class="price_area section-padding">
+{{-- <section id="pricing" class="price_area section-padding">
 	<div class="container">													
 		<div class="section-title">
 			<h2>Pricing Plan</h2>
@@ -492,7 +492,7 @@
 			</div><!--- END COL -->			  
 		</div><!--- END ROW -->
 	</div><!--- END CONTAINER -->
-</section>
+</section> --}}
 <!-- END PRICING -->	
 
 <!-- START NEWSLETTER -->
@@ -526,8 +526,8 @@
 				<div class="single_blog">
 				<img src="assets/images/blog/1.png" class="img-fluid" alt="image" />
 					<div class="content_box">
-						<span>August 25, 2023 | <a href="blog_single.html">Design</a></span>
-						<h2><a href="blog_single.html">Professional Mobile Painting and Sculpting</a></h2>
+						<span>August 25, 2023 | <a href="blog_single">Design</a></span>
+						<h2><a href="blog_single">Professional Mobile Painting and Sculpting</a></h2>
 						<a href="#" class="cta"><span>READ MORE</span>
 							<svg width="13px" height="10px" viewBox="0 0 13 10">
 							<path d="M1,5 L11,5"></path>
@@ -541,8 +541,8 @@
 				<div class="single_blog">
 					<img src="assets/images/blog/2.png" class="img-fluid" alt="image" />
 					<div class="content_box">
-						<span>August 26, 2023 | <a href="blog_single.html">Education</a></span>
-						<h2><a href="blog_single.html">Professional Ceramic Moulding for Beginner</a></h2>
+						<span>August 26, 2023 | <a href="blog_single">Education</a></span>
+						<h2><a href="blog_single">Professional Ceramic Moulding for Beginner</a></h2>
 						<a href="#" class="cta"><span>READ MORE</span>
 							<svg width="13px" height="10px" viewBox="0 0 13 10">
 							<path d="M1,5 L11,5"></path>
@@ -555,8 +555,8 @@
 			<div class="col-lg-4 col-sm-4 col-xs-12 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.3s" data-wow-offset="0">
 				<div class="single_blog">
 					<div class="content_box">
-						<span>August 28, 2023 | <a href="blog_single.html">Programing</a></span>
-						<h2><a href="blog_single.html">Education Is About Create Leaders For Tomorrow </a></h2>
+						<span>August 28, 2023 | <a href="blog_single">Programing</a></span>
+						<h2><a href="blog_single">Education Is About Create Leaders For Tomorrow </a></h2>
 						<a href="#" class="cta"><span>READ MORE</span>
 							<svg width="13px" height="10px" viewBox="0 0 13 10">
 							<path d="M1,5 L11,5"></path>
@@ -567,8 +567,8 @@
 				</div>
 				<div class="single_blog">
 					<div class="content_box">
-						<span>August 28, 2023 | <a href="blog_single.html">Programing</a></span>
-						<h2><a href="blog_single.html">Education Is About Create Leaders For Tomorrow </a></h2>
+						<span>August 28, 2023 | <a href="blog_single">Programing</a></span>
+						<h2><a href="blog_single">Education Is About Create Leaders For Tomorrow </a></h2>
 						<a href="#" class="cta"><span>READ MORE</span>
 							<svg width="13px" height="10px" viewBox="0 0 13 10">
 							<path d="M1,5 L11,5"></path>
