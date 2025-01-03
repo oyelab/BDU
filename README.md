@@ -24,11 +24,23 @@ You can check out the live demo of the platform by visiting the following link:
 ---
 
 ## **Technologies Used**
-- **Frontend**: Blade templates, Bootstrap 5
-- **Backend**: Laravel 11
-- **Database**: SQLite (default), MySQL/PostgreSQL support
-- **APIs**: RESTful endpoints for future integrations
-- **Deployment**: Apache Server on VPS
+- **Frontend**: Blade templates, Bootstrap 5  
+  ![Blade](https://img.shields.io/badge/Powered%20by-Blade-0073A0?logo=blade&logoColor=white)  
+  ![Bootstrap](https://img.shields.io/badge/Powered%20by-Bootstrap-563D7C?logo=bootstrap&logoColor=white)
+
+- **Backend**: Laravel 11  
+  ![Laravel](https://img.shields.io/badge/Powered%20by-Laravel-FF2D20?logo=laravel&logoColor=white)
+
+- **Database**: SQLite (default), MySQL/PostgreSQL support  
+  ![SQLite](https://img.shields.io/badge/Powered%20by-SQLite-003B57?logo=sqlite&logoColor=white)  
+  ![MySQL](https://img.shields.io/badge/Powered%20by-MySQL-4479A1?logo=mysql&logoColor=white)  
+  ![PostgreSQL](https://img.shields.io/badge/Powered%20by-PostgreSQL-336791?logo=postgresql&logoColor=white)
+
+- **APIs**: RESTful endpoints for future integrations  
+  ![REST API](https://img.shields.io/badge/Powered%20by-REST-25D366?logo=swagger&logoColor=white)
+
+- **Deployment**: Apache Server on VPS  
+  ![Apache](https://img.shields.io/badge/Powered%20by-Apache-DB2A27?logo=apache&logoColor=white)
 
 ---
 
