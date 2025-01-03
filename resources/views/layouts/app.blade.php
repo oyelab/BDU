@@ -12,6 +12,8 @@
 		<meta name="keywords" content="oyelab_project, college, course, e-learning, education, high school, kids, learning, online, online courses, school, student, teacher, tutor, university">
 		<meta name="author" content="theme_ocean">
 		<meta property="og:image" content="{{ asset('assets/images/banner/og-preview.jpg') }}" />
+
+		<link rel="icon" type="image/x-icon" href="{{ asset('favicon.ico') }}">
 	
 		<!-- Latest Bootstrap min CSS -->
 		<link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">		
